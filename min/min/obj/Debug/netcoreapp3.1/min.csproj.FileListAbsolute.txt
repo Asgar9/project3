@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projects\minimum\min\min\bin\Debug\netcoreapp3.1\min.exe
+C:\Users\User\Desktop\projects\minimum\min\min\bin\Debug\netcoreapp3.1\min.deps.json
+C:\Users\User\Desktop\projects\minimum\min\min\bin\Debug\netcoreapp3.1\min.runtimeconfig.json
+C:\Users\User\Desktop\projects\minimum\min\min\bin\Debug\netcoreapp3.1\min.runtimeconfig.dev.json
+C:\Users\User\Desktop\projects\minimum\min\min\bin\Debug\netcoreapp3.1\min.dll
+C:\Users\User\Desktop\projects\minimum\min\min\bin\Debug\netcoreapp3.1\min.pdb
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.AssemblyInfo.cs
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.dll
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.pdb
+C:\Users\User\Desktop\projects\minimum\min\min\obj\Debug\netcoreapp3.1\min.genruntimeconfig.cache
